@@ -1,0 +1,9 @@
+{
+	"name": "melchidatafactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43f2838c-1a9d-4022-88ee-8a06bfb1f94a",
+		"tenantId": "291136fa-ac5b-4f0c-9300-aa40a826e169"
+	}
+}
